@@ -6,7 +6,7 @@ This repository contains all the useful code that is needed for developing romer
 
 ## Resources
 
-[Deployment Guide](https://drive.google.com/file/d/1h6gdVdihxXHbHI0IYaPB9pTn51sGxvW7/view?usp=sharing)
+[Deployment Guide](https://drive.google.com/file/d/1m1bxAJTBjyFjdMlIkmVGxupORpiYnlCB/view?usp=sharing)
 
 
 ## Authors
